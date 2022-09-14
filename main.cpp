@@ -1,5 +1,7 @@
 // Aly Mohamed 260902616
+// aly.mohamed@mail.mcgill.ca
 // Robert Aprahamian 260889522
+// robert.aprahamian@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
