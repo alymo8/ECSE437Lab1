@@ -16,6 +16,23 @@
       "message": "Hi Robert,\n\nPlease review my commit.",
       "revId": "d8447c6e99fce78915c1406c5064b3e065d66a74",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4a418802_3aa349a7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020597
+      },
+      "writtenOn": "2022-10-03T23:40:23Z",
+      "side": 1,
+      "message": "Very good work ! :)",
+      "revId": "d8447c6e99fce78915c1406c5064b3e065d66a74",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
