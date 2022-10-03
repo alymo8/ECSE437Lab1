@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "aef37df9_9ff7c7c0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020591
+      },
+      "writtenOn": "2022-10-03T17:30:56Z",
+      "side": 1,
+      "message": "Hi Robert,\n\nPlease review my commit.",
+      "revId": "d8447c6e99fce78915c1406c5064b3e065d66a74",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
